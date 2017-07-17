@@ -1,0 +1,11 @@
+{
+  "name": "wdio-rerun-reporter",
+  "version": "0.0.1",
+  "description": "Outputs filenames of failed scenarios to a file",
+  "main": "lib/reporter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Morgan Christiansson <git@mog.se>",
+  "license": "ISC"
+}
